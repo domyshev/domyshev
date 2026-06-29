@@ -1,18 +1,38 @@
 ```text
-[38;2;230;94;64m5[0m[38;2;64;83;230m4[0m[38;2;131;230;64m2[0m[38;2;230;64;179mI[0m[38;2;64;227;230m9[0m[38;2;230;183;64m3[0m[38;2;135;64;230m8[0m[38;2;64;230;87m8[0m[38;2;230;64;90m7[0m[38;2;64;138;230m4[0m[38;2;186;230;64m6[0m[38;2;225;64;230mP[0m[38;2;64;230;176mP[0m[38;2;230;128;64m.[0m[38;2;80;64;230m4[0m[38;2;97;230;64m0[0m[38;2;230;64;145mP[0m[38;2;64;193;230m4[0m[38;2;230;218;64m4[0m[38;2;169;64;230m8[0m[38;2;64;230;121mI[0m[38;2;230;73;64m1[0m[38;2;64;104;230m0[0m[38;2;152;230;64m4[0m[38;2;230;64;200m4[0m[38;2;64;230;211m5[0m[38;2;230;162;64m2[0m[38;2;114;64;230m3[0m[38;2;64;230;66m0[0m[38;2;230;64;111m9[0m[38;2;64;159;230m9[0m[38;2;207;230;64m8[0m
-[38;2;203;64;230m4[0m[38;2;64;230;155m6[0m[38;2;230;107;64m5[0m[38;2;64;70;230m1[0m[38;2;118;230;64m6[0m[38;2;230;64;166mP[0m[38;2;64;214;230m8[0m[38;2;230;196;64m.[0m[38;2;148;64;230m1[0m[38;2;64;230;100m8[0m[38;2;230;64;77m5[0m[38;2;64;125;230mI[0m[38;2;173;230;64m3[0m[38;2;230;64;221m5[0m[38;2;64;230;189m4[0m[38;2;230;141;64m5[0m[38;2;93;64;230m9[0m[38;2;84;230;64m3[0m[38;2;230;64;132m7[0m[38;2;64;180;230m4[0m[38;2;228;230;64m2[0m[38;2;182;64;230m8[0m[38;2;64;230;134m3[0m[38;2;230;86;64m3[0m[38;2;64;91;230m3[0m[38;2;139;230;64m6[0m[38;2;230;64;187m7[0m[38;2;64;230;224m6[0m[38;2;230;175;64m2[0m[38;2;127;64;230m9[0m[38;2;64;230;79m3[0m[38;2;230;64;98mI[0m
-[38;2;64;146;230m7[0m[38;2;194;230;64m0[0m[38;2;217;64;230m.[0m[38;2;64;230;168m4[0m[38;2;230;120;64m0[0m[38;2;72;64;230mP[0m[38;2;105;230;64m6[0m[38;2;230;64;153mP[0m[38;2;64;201;230m9[0m[38;2;230;209;64m3[0m[38;2;161;64;230m3[0m[38;2;64;230;113m5[0m[38;2;230;65;64mI[0m[38;2;64;112;230m1[0m[38;2;160;230;64m0[0m[38;2;230;64;208m2[0m[38;2;64;230;202m6[0m[38;2;230;154;64m1[0m[38;2;106;64;230m4[0m[38;2;71;230;64m6[0m[38;2;230;64;119m5[0m[38;2;64;167;230m1[0m[38;2;215;230;64mP[0m[38;2;195;64;230m8[0m[38;2;64;230;147m1[0m[38;2;230;99;64m9[0m[38;2;64;78;230mP[0m[38;2;126;230;64m4[0m[38;2;230;64;174m0[0m[38;2;64;222;230m.[0m[38;2;230;188;64m.[0m[38;2;140;64;230m2[0m
-[38;2;64;230;92m2[0m                              [38;2;230;64;85m2[0m
-[38;2;64;133;230m3[0m[38;2;181;230;64m2[0m       [38;2;230;64;229mI[0m[38;2;64;230;181mL[0m[38;2;230;133;64mI[0m[38;2;85;64;230mA[0m [38;2;92;230;64mD[0m[38;2;230;64;140mO[0m[38;2;64;188;230mM[0m[38;2;230;223;64mY[0m[38;2;174;64;230mS[0m[38;2;64;230;126mH[0m[38;2;230;78;64mE[0m[38;2;64;99;230mV[0m        [38;2;147;230;64m4[0m[38;2;230;64;195mP[0m
-[38;2;64;230;215m4[0m                              [38;2;230;167;64m6[0m
-[38;2;119;64;230m6[0m[38;2;64;230;71m2[0m[38;2;230;64;106mI[0m[38;2;64;154;230mP[0m[38;2;202;230;64mI[0m[38;2;208;64;230m0[0m[38;2;64;230;160m4[0m[38;2;230;112;64m4[0m[38;2;64;65;230m6[0m[38;2;113;230;64m8[0m[38;2;230;64;161m.[0m[38;2;64;209;230m5[0m[38;2;230;201;64m5[0m[38;2;153;64;230m1[0m[38;2;64;230;105mP[0m[38;2;230;64;72m7[0m[38;2;64;120;230m6[0m[38;2;168;230;64m.[0m[38;2;230;64;216m1[0m[38;2;64;230;194m6[0m[38;2;230;146;64m3[0m[38;2;98;64;230m9[0m[38;2;79;230;64m6[0m[38;2;230;64;127m5[0m[38;2;64;175;230m8[0m[38;2;223;230;64m2[0m[38;2;187;64;230m9[0m[38;2;64;230;139mI[0m[38;2;230;91;64m0[0m[38;2;64;86;230m9[0m[38;2;134;230;64m.[0m[38;2;230;64;182m2[0m
-[38;2;64;230;229m3[0m[38;2;230;180;64mI[0m[38;2;132;64;230m.[0m[38;2;64;230;84m4[0m[38;2;230;64;93m5[0m[38;2;64;141;230m3[0m[38;2;189;230;64mI[0m[38;2;222;64;230m5[0m[38;2;64;230;173m.[0m[38;2;230;125;64m2[0m[38;2;77;64;230m7[0m[38;2;100;230;64m8[0m[38;2;230;64;148mP[0m[38;2;64;196;230m3[0m[38;2;230;214;64m8[0m[38;2;166;64;230m9[0m[38;2;64;230;118m1[0m[38;2;230;70;64m7[0m[38;2;64;107;230m1[0m[38;2;155;230;64m2[0m[38;2;230;64;203mI[0m[38;2;64;230;207m1[0m[38;2;230;159;64m0[0m[38;2;111;64;230m4[0m[38;2;66;230;64m1[0m[38;2;230;64;114m2[0m[38;2;64;162;230m1[0m[38;2;210;230;64m4[0m[38;2;200;64;230m3[0m[38;2;64;230;152m2[0m[38;2;230;104;64m.[0m[38;2;64;73;230m0[0m
+                 /\
+                /  \
+               /_<>_\
+              / .--. \
+             / /    \ \
+            / | ILIA DOMYSHEV | \
+           /  '--------------'  \
+          /______________________\
+              /|    |\
+             /_|____|_\
+               /_/\_\
+              /_/  \_\
 ```
 
-[38;2;190;24;93mI am Russian, and I do not hide from that fact. I do not believe people should be judged collectively for actions taken in their name without their consent; each person should be judged by their own views, choices, and position.[0m
+## Hi, I'm Ilia Domyshev
 
-[38;2;13;148;136mProfessionally, at this stage of my life, I identify mostly as a programmer, or as a prompt developer if that term fits better. I do not think modern progress in LLMs means programmers should simply be renamed prompt engineers. In my view, prompt engineering is an evolutionary tool that helps many professions, including software development. Its value lives inside real domains, not in replacing them with a simplified label.[0m
+💻 I identify mostly as a programmer, or as a prompt developer if that term fits
+better. I do not think modern progress in LLMs means programmers should simply
+be renamed prompt engineers.
 
-[38;2;22;163;74mI still consider myself a little bit of a mathematician. My education is in applied mathematics, and my degree is in mathematics and programming. The field has changed a lot since I studied it around 2008, but I am grateful that I got to touch the version of computer science that existed during those university years.[0m
+💻 I identify mostly as a programmer, or as a prompt developer if that term fits
+ In my view, prompt engineering is an evolutionary tool that helps many
+professions, including software development. Its value lives inside real
+domains, not in replacing them with a simplified label.
 
-[38;2;217;119;6mI was never a perfect student, but I have always had a strong tendency toward analytical thinking, computation, and numbers. One of my favorite distractions in math class was writing as many digits of pi as I could remember in the margins of my notebook. I assume my math teacher enjoyed that very much.[0m
+💻 I identify mostly as a programmer, or as a prompt developer if that term fits
+ I still consider myself a little bit of a mathematician. My education is in
+applied mathematics, and my degree is in mathematics and programming. The field
+has changed a lot since I studied it around 2008, but I am grateful that I got
+to touch the version of computer science that existed during those university
+years.
+
+💻 I identify mostly as a programmer, or as a prompt developer if that term fits
+ I was never a perfect student, but I have always had a strong tendency toward
+analytical thinking, computation, and numbers.
+
+🛠️ I like the space where code, language, tools, and reasoning meet.
