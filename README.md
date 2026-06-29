@@ -1,16 +1,33 @@
-## Hi there 👋
+<pre>
+<font color="#e65e40">5</font><font color="#4053e6">4</font><font color="#83e640">2</font><font color="#e640b3">I</font><font color="#40e3e6">9</font><font color="#e6b740">3</font><font color="#8740e6">8</font><font color="#40e657">8</font><font color="#e6405a">7</font><font color="#408ae6">4</font><font color="#bae640">6</font><font color="#e140e6">P</font><font color="#40e6b0">P</font><font color="#e68040">.</font><font color="#5040e6">4</font><font color="#61e640">0</font><font color="#e64091">P</font><font color="#40c1e6">4</font><font color="#e6da40">4</font><font color="#a940e6">8</font><font color="#40e679">I</font><font color="#e64940">1</font><font color="#4068e6">0</font><font color="#98e640">4</font><font color="#e640c8">4</font><font color="#40e6d3">5</font><font color="#e6a240">2</font><font color="#7240e6">3</font><font color="#40e642">0</font><font color="#e6406f">9</font><font color="#409fe6">9</font><font color="#cfe640">8</font>
+<font color="#cb40e6">4</font><font color="#40e69b">6</font><font color="#e66b40">5</font><font color="#4046e6">1</font><font color="#76e640">6</font><font color="#e640a6">P</font><font color="#40d6e6">8</font><font color="#e6c440">.</font><font color="#9440e6">1</font><font color="#40e664">8</font><font color="#e6404d">5</font><font color="#407de6">I</font><font color="#ade640">3</font><font color="#e640dd">5</font><font color="#40e6bd">4</font><font color="#e68d40">5</font><font color="#5d40e6">9</font><font color="#54e640">3</font><font color="#e64084">7</font><font color="#40b4e6">4</font><font color="#e4e640">2</font><font color="#b640e6">8</font><font color="#40e686">3</font><font color="#e65640">3</font><font color="#405be6">3</font><font color="#8be640">6</font><font color="#e640bb">7</font><font color="#40e6e0">6</font><font color="#e6af40">2</font><font color="#7f40e6">9</font><font color="#40e64f">3</font><font color="#e64062">I</font>
+<font color="#4092e6">7</font><font color="#c2e640">0</font><font color="#d940e6">.</font><font color="#40e6a8">4</font><font color="#e67840">0</font><font color="#4840e6">P</font><font color="#69e640">6</font><font color="#e64099">P</font><font color="#40c9e6">9</font><font color="#e6d140">3</font><font color="#a140e6">3</font><font color="#40e671">5</font><font color="#e64140">I</font><font color="#4070e6">1</font><font color="#a0e640">0</font><font color="#e640d0">2</font><font color="#40e6ca">6</font><font color="#e69a40">1</font><font color="#6a40e6">4</font><font color="#47e640">6</font><font color="#e64077">5</font><font color="#40a7e6">1</font><font color="#d7e640">P</font><font color="#c340e6">8</font><font color="#40e693">1</font><font color="#e66340">9</font><font color="#404ee6">P</font><font color="#7ee640">4</font><font color="#e640ae">0</font><font color="#40dee6">.</font><font color="#e6bc40">.</font><font color="#8c40e6">2</font>
+<font color="#40e65c">2</font>                              <font color="#e64055">2</font>
+<font color="#4085e6">3</font><font color="#b5e640">2</font>       <font color="#e640e5">I</font><font color="#40e6b5">L</font><font color="#e68540">I</font><font color="#5540e6">A</font> <font color="#5ce640">D</font><font color="#e6408c">O</font><font color="#40bce6">M</font><font color="#e6df40">Y</font><font color="#ae40e6">S</font><font color="#40e67e">H</font><font color="#e64e40">E</font><font color="#4063e6">V</font>        <font color="#93e640">4</font><font color="#e640c3">P</font>
+<font color="#40e6d7">4</font>                              <font color="#e6a740">6</font>
+<font color="#7740e6">6</font><font color="#40e647">2</font><font color="#e6406a">I</font><font color="#409ae6">P</font><font color="#cae640">I</font><font color="#d040e6">0</font><font color="#40e6a0">4</font><font color="#e67040">4</font><font color="#4041e6">6</font><font color="#71e640">8</font><font color="#e640a1">.</font><font color="#40d1e6">5</font><font color="#e6c940">5</font><font color="#9940e6">1</font><font color="#40e669">P</font><font color="#e64048">7</font><font color="#4078e6">6</font><font color="#a8e640">.</font><font color="#e640d8">1</font><font color="#40e6c2">6</font><font color="#e69240">3</font><font color="#6240e6">9</font><font color="#4fe640">6</font><font color="#e6407f">5</font><font color="#40afe6">8</font><font color="#dfe640">2</font><font color="#bb40e6">9</font><font color="#40e68b">I</font><font color="#e65b40">0</font><font color="#4056e6">9</font><font color="#86e640">.</font><font color="#e640b6">2</font>
+<font color="#40e6e5">3</font><font color="#e6b440">I</font><font color="#8440e6">.</font><font color="#40e654">4</font><font color="#e6405d">5</font><font color="#408de6">3</font><font color="#bde640">I</font><font color="#de40e6">5</font><font color="#40e6ad">.</font><font color="#e67d40">2</font><font color="#4d40e6">7</font><font color="#64e640">8</font><font color="#e64094">P</font><font color="#40c4e6">3</font><font color="#e6d640">8</font><font color="#a640e6">9</font><font color="#40e676">1</font><font color="#e64640">7</font><font color="#406be6">1</font><font color="#9be640">2</font><font color="#e640cb">I</font><font color="#40e6cf">1</font><font color="#e69f40">0</font><font color="#6f40e6">4</font><font color="#42e640">1</font><font color="#e64072">2</font><font color="#40a2e6">1</font><font color="#d2e640">4</font><font color="#c840e6">3</font><font color="#40e698">2</font><font color="#e66840">.</font><font color="#4049e6">0</font>
+</pre>
 
-<!--
-**domyshev/domyshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td bgcolor="#fff1f2">
+      <font color="#7f1d1d">I am Russian, and I do not hide from that fact. I do not believe people should be judged collectively for actions taken in their name without their consent; each person should be judged by their own views, choices, and position.</font>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#ecfeff">
+      <font color="#164e63">Professionally, at this stage of my life, I identify mostly as a programmer, or as a prompt developer if that term fits better. I do not think modern progress in LLMs means programmers should simply be renamed prompt engineers. In my view, prompt engineering is an evolutionary tool that helps many professions, including software development. Its value lives inside real domains, not in replacing them with a simplified label.</font>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#f0fdf4">
+      <font color="#14532d">I still consider myself a little bit of a mathematician. My education is in applied mathematics, and my degree is in mathematics and programming. The field has changed a lot since I studied it around 2008, but I am grateful that I got to touch the version of computer science that existed during those university years.</font>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#fffbeb">
+      <font color="#78350f">I was never a perfect student, but I have always had a strong tendency toward analytical thinking, computation, and numbers. One of my favorite distractions in math class was writing as many digits of pi as I could remember in the margins of my notebook. I assume my math teacher enjoyed that very much.</font>
+    </td>
+  </tr>
+</table>
