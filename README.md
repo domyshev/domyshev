@@ -1,38 +1,25 @@
 ```text
-                 /\
-                /  \
-               /_<>_\
-              / .--. \
-             / /    \ \
-            / | ILIA DOMYSHEV | \
-           /  '--------------'  \
-          /______________________\
-              /|    |\
-             /_|____|_\
-               /_/\_\
-              /_/  \_\
+##### +     =====  @@@     %%%%   &&&  *   * ^   ^  $$$$ !   ! ::::: ~   ~
+  #   +       =   @   @    %   % &   & ** **  ^ ^  $     !   ! :     ~   ~
+  #   +       =   @@@@@    %   % &   & * * *   ^    $$$  !!!!! ::::  ~   ~
+  #   +       =   @   @    %   % &   & *   *   ^       $ !   ! :      ~ ~
+##### +++++ ===== @   @    %%%%   &&&  *   *   ^   $$$$  !   ! :::::   ~
 ```
 
 ## Hi, I'm Ilia Domyshev
 
-💻 I identify mostly as a programmer, or as a prompt developer if that term fits
-better. I do not think modern progress in LLMs means programmers should simply
-be renamed prompt engineers.
+I'm a programmer who values self-reliance: understanding the system, owning the
+decisions, and being able to take an idea from a vague problem to working
+software.
 
-💻 I identify mostly as a programmer, or as a prompt developer if that term fits
- In my view, prompt engineering is an evolutionary tool that helps many
-professions, including software development. Its value lives inside real
-domains, not in replacing them with a simplified label.
+My main languages are **TypeScript** and **JavaScript**. I also write some
+**Go**, especially when a small, straightforward tool is the right answer. I use
+LLMs as capable tools for thought and development—not as a substitute for
+understanding the domain or the code.
 
-💻 I identify mostly as a programmer, or as a prompt developer if that term fits
- I still consider myself a little bit of a mathematician. My education is in
-applied mathematics, and my degree is in mathematics and programming. The field
-has changed a lot since I studied it around 2008, but I am grateful that I got
-to touch the version of computer science that existed during those university
-years.
+My education is in **applied mathematics**, with a degree in **mathematics and
+programming**. It gave me a lasting bias toward analytical thinking,
+computation, and first principles.
 
-💻 I identify mostly as a programmer, or as a prompt developer if that term fits
- I was never a perfect student, but I have always had a strong tendency toward
-analytical thinking, computation, and numbers.
-
-🛠️ I like the space where code, language, tools, and reasoning meet.
+Away from the keyboard, I explore **3D printing**: turning digital models into
+physical objects is a particularly satisfying kind of debugging.
